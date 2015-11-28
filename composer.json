@@ -1,0 +1,23 @@
+{
+	"name": "eewalk11/const-container",
+	"type": "library",
+	"description": "An abstract class to extend if a class exists for containing constants",
+	"keywords": [
+		"const"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Eric Walker",
+			"email": "eewalk11@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"EeWalk11\\": "src/EeWalk11/"
+		}
+	}
+}
