@@ -3,7 +3,7 @@
 	"type": "library",
 	"description": "An abstract class to extend if a class exists for containing constants",
 	"keywords": [
-		"const"
+		"php"
 	],
 	"license": "MIT",
 	"authors": [
